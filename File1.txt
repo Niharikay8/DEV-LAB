@@ -1,2 +1,3 @@
 This is a line1
 This is line 2, added in central Repo
+This is line3 on local branch B1
